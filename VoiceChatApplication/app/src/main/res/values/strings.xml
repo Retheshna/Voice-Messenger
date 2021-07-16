@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VoiceChatApplication</string>
+    <string name="button">Button</string>
+
+    <string name="send">SEND</string>
+    <string name="todo">TODO</string>
+    <string name="text">text</string>
+    <string name="chat">chat</string>
+</resources>
